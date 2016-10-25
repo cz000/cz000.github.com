@@ -3,7 +3,7 @@ description: 闷声发大才
 author: cz000 
 logo: /static/img/avatar.png
 github: https://cz000.github.io/
-about: Freelance developer
+about: 闷声发大才
 
 baseurl: ""
 url: "http://cz000.github.io/"
@@ -19,8 +19,8 @@ share:
 enableTags: true
 tagarray: []
 
-paginate: 20
-per_page: 20
+paginate: 10
+per_page: 10
 paginate_path: "/page:num/"
 markdown: kramdown
 gems: [jekyll-paginate, jekyll-gist]
