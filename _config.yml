@@ -1,15 +1,15 @@
 title: Chenz 
-description: 闷声发大才
+description: My Personal Blog
 author: cz000 
 logo: /static/img/avatar.png
-github: https://cz000.github.io/
+github: https://github.com/cz000
 about: 闷声发大才
 
 baseurl: ""
 url: "http://cz000.github.io/"
 
 disqus_shortname: aboutashu
-google_analytics: 
+google_analytics: UA-72862926-1
 
 share:
   twitter_username: \#
