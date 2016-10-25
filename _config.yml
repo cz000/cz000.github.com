@@ -1,15 +1,15 @@
-title: CZ000 
-description: My Personal Blog
+title: Chenz 
+description: 闷声发大才
 author: cz000 
 logo: /static/img/avatar.png
-github: https://cz000.github.io
+github: https://cz000.github.io/
 about: Freelance developer
 
 baseurl: ""
-url: "http://cz000.github.io"
+url: "http://cz000.github.io/"
 
 disqus_shortname: aboutashu
-google_analytics: UA-72862926-1
+google_analytics: 
 
 share:
   twitter_username: \#
