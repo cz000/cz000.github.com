@@ -26,6 +26,17 @@ header-img: "img/post-bg-02.jpg"
 
 <p>这个markdown怎么嵌入这么多前端代码.下面的测试啥我也不知道，留下来以后C-V大法吧</p>
 
+
+```
+#include <stdio.h>
+
+int main(int argc, char const *argv[])
+{
+	printf("hello cz000\n");
+	return 0;
+}
+```
+
 <p>链接不要随便点，我粘了P站的地址:)</p>
 
 <p>Placeholder text by <a href="http://spaceipsum.com/">Space Ipsum</a>. Photographs by <a href="https://www.flickr.com/photos/nasacommons/">NASA on The Commons</a>.</p>
